@@ -1,1 +1,1 @@
-"# Giam_nhieu_nhat" 
+"# XOR" 
